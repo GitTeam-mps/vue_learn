@@ -1,0 +1,8 @@
+body{
+    background: #f5f5f5;
+}
+.box{
+    border:1px solid red;
+    font-family: "Microsoft Yi Baiti";
+    font-size: 18px;
+}
